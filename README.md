@@ -10,10 +10,6 @@ A simple web application to take a quiz with multiple-choice questions.
 - Show the final score at the end of the quiz
 - Option to retake the quiz
 
-## Screenshots
-
-![Quiz App Screenshot](path/to/screenshot.png)
-
 ## Technologies Used
 
 - HTML
